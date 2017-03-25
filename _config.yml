@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: fc897d1cf024f8bf3d10
+gatekeeper_host: https://salty-chamber-27028.herokuapp.com
 
 # Dataset schema
 schema: default
