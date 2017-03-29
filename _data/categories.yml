@@ -1,6 +1,7 @@
 - name: Arts / Culture / History
   logo: /img/categories/arts-culture-history.svg
   logo_credit: ''
+  featured: true
 - name: Education
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
